@@ -1,5 +1,3 @@
-Resumo das aulas
-
 Aula 1
 	Oque o js faz? Ele pode fazer de tudo.
 	
@@ -114,3 +112,34 @@ Aula 5
 		object
 			Array
 		function
+
+Aula 6
+
+	Alguns comandos importantes
+		window.alert('Uma mensagem do site para o usuário.')
+		window.confirm('Gera uma janela com uma mensagem do site, e uma escolha para o usuário.')
+		window.promtp('Gera uma caixa de diálogo para o usuario preencher com oque quiser, é importante lembrar que neste comando, os dados salvos são string como padrão.')
+		document.write('Escreve no documento.')
+		Para criar uma variavel deve-se utilizar o código:
+			var nome_da_variavel = comando_em_seguida
+		Para converter uma string para number de um prompt, pode se usar:
+			Number.parseInt(window.promtp('Este não permite o uso de casas decimais.'))
+			Number.Float(window.prompt('Este permite o uso de casas decimais.'))
+			Number(window.prompt('Neste aqui o JS irá decidir qual usar.'))
+		Para conver de number para string:
+			String(n)
+			n.toString()
+		Em casos de colocar várias variaveis em uma mensagem pode usar o ${}, portando deve se usar a `` em vez das '' ou ""
+				 Exemplo
+				var n = João
+				var ida = 15
+				window.alert(`Seu nome é ${}, e sua idade é ${}.`)
+				A mensagem deve ficar assim:
+				Seu nome é João, e sua idade é 15.
+		Formatando Strings
+			s.length Este comando conta quantos letras tem sua string.
+			s.toUpperCase() Deixa sua string com letras maisculas.
+			s.toLowerCase() Deixa sua string com letras minusculas.
+
+			
+
