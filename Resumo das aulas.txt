@@ -1,0 +1,117 @@
+Aula 1
+	Oque o js faz? Ele pode fazer de tudo.
+	
+	Empreas que usam o JS
+		Facebook
+		Google
+		Linkedin
+		Netflix
+		Dentre outras.	
+	
+	Conceito Client X Server
+		Cliente: Dispositvo do usuario.
+		Servidor: Banco de dados, onde está localizado o arquivo que um usuario quer.
+		Navegador: Intermedia o Cliente e o Servidor.
+		
+	Conceito de Client Side
+		HTML: Conteudo do site, como textos, vídeos e imagens.
+		CSS: Para customizar o site, fazendo com que fique bonito.
+		JS: Interação do usuario com o site.
+
+Aula 2
+	
+	Evolução do JS
+		1970-Surgimento da internet
+		1993-Criação do HTML, do WWW, e do HTTP. Nascimento do mosaic.
+		1994-Fundação do Netscape com base no mosaic.
+		1995-Criação do CSS, JS. Lançamento do Internet Explorer, e Windowns 95.
+		1997-Netscape sede JS para o ECMA.
+		2002-Surgimento do Mozilla.
+		2008-Surgimento do Google Chrome.
+		2009-Surgimento do V8.
+		2010-Criação do NODE.JS.
+
+	Ecma script
+		Versão padronizada do JS, tendo seu primeira lançamento em 1997 com a versão 1.0.
+		Versão 2.0 em 1998.
+		Versão 3.0 em 1999
+		ES5 2009
+		ES6 2015
+		Após isso as atualizações passaram a ser feitas anualmente.
+
+	Framewoks
+		JQuerry
+		Angular
+		React
+		Veu
+		Electron
+
+	Utilização nos jogos
+		Phaser
+		Pixi JS
+		Impact
+		Melon.js
+		Craft.js
+
+Aula 3
+
+	Requisitos para o curso
+		Conta github
+		Utilizar o code pen
+		Chrome
+
+	Ambiente em casa
+		Conta github
+		Visual studio code
+		Node.js
+
+	Livros
+		Java Script Guia Definitivo
+		Java Script Guia do Programador
+		Guia de referencia da Mozilla
+		Guida de referencia da ecma
+
+Aula 4-Inicio das práticas
+	
+	Códigos básicos
+		Alert, gera uma mensagem com um botão de ok
+		Confirm, gera uma janela com um botão de ok e cancel
+		Prompt, gera uma pergunta que pode ser respondida
+
+Módulo B-Expcativa: Aprender comandos básicos, como armazenar dados, tratamento e operações com dados
+
+Aula 5
+	
+	Inicio
+		Utilizar // para comentarios em uma linha, ou /* e */ para utilizar em mais de uma linha.
+		Sinal de = não significa igual, e sim receber.
+		Null significa nulo.
+		Variavel é chamado de ver
+
+	Regras dos identificadores
+		Podem começar com letras, $ ou _
+		Não odem começar com números
+		É possivel usar números
+		É possivel usar acentos e simbolos
+		Não podem ser palavras reservadas
+		Não pode conter espaços
+
+	Dicas
+		Maisculas e minusculas são diferentes
+		Utilizar nomes coerentes
+		Evitar se tonar um programador alfabeto, ou um programador contador
+
+	Data types
+		number
+			Infinity
+			NaN
+		string
+		boolean
+		null
+		undefined
+		object
+			Array
+		function
+
+
+			
