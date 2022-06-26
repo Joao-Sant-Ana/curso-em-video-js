@@ -141,4 +141,42 @@ Aula 6
 			s.toUpperCase() Deixa sua string com letras maisculas.
 			s.toLowerCase() Deixa sua string com letras minusculas.
 
+Aula 7
+
+	Operadores focados no curso
+		aritméticos-Usados para fazer contas, seus simbolos são: +, -, *, /, %, **.
+		atribuições
+		relacionais
+		lógicos
+		ternário
+		É importante ressaltar que estes não são os unicos operadores em JS.
+
+		Aritméticos
+			+ Adição
+			- Subtração
+			* Multiplicação
+			/ Divisão real 
+			% Divisão Inteira 
+			** Potencia
+	Auto-atrubuições
+		var n = 3 Utiliza uma variavel simples
+		n = n + 4 Irá somar 4 ao valor da variavel, fazendo com que ela passe a valer 7.
+		n = n - 5 Irá subtrair o valor da variavel, fazendo com ela passe a valer 2.
+		n = n * 4 Irá multiplicar por quatro, fazendo com que a variavel passe a valer 8.
+		n = n / 2 Irá dividir a variavel por 2, fazendo com que ela passe a valer 4.
+		n = n ** 2 Irá elevar a varia ao quadrado, fazendo ela valer 16.
+		n = n % 5 Irá fazer uma fração inteira fazendo que a variavel passe a valer 1.
+
+			Forma simplificada
+				Há também uma forma simplificada que o JS consegue entender, aqui estão os exemplos:
+					n += 4
+					n -= 5
+					n *=4
+					n /=2
+					n **=2
+					n %=2
+		Incrementos
+			Caso queira adicionar ou subtrair apenas o número 1, pode se usar:
+				x++
+				x--
 			
