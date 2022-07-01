@@ -86,7 +86,7 @@ Aula 5
 		Utilizar // para comentarios em uma linha, ou /* e */ para utilizar em mais de uma linha.
 		Sinal de = não significa igual, e sim receber.
 		Null significa nulo.
-		Variavel é chamado de ver
+		Variavel é chamado de var
 
 	Regras dos identificadores
 		Podem começar com letras, $ ou _
